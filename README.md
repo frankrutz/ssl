@@ -1,5 +1,4 @@
-# ssl
-Send-MailMessage via bluewin and powershell using ssl
+# Sending Bluewin Mail from Powershell using SSL and Send-MailMessage
 
 Hardware:
 Windows 10 Pro
