@@ -35,6 +35,7 @@ $from_mail_domain="bluewin.ch"
 $to_mail_first_last="frank.tohim"
 $to_mail_domain="gmail.com"
 #configuration end####################################
+#cont touch code below, all config is above###########
 ######################################################
 
 $credential = Get-Credential  -credential $from_mail_first_last@$from_mail_domain
