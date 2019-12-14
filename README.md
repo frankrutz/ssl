@@ -23,7 +23,7 @@ Send-MailMessage `
 -SmtpServer "smtpauths.bluewin.ch"
 
 
-# Preparation of a script 
+#######if you want to do it in a script, a suggestion for a template ... ####################
 
 ######################################################
 #configuration start##################################
