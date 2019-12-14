@@ -41,7 +41,7 @@ Send-MailMessage `
 -to "$to_mail_first_last <$to_mail_first_last@$to_mail_domain>" `
 -port "587" `
 -from "$from_mail_first_last <$from_mail_first_last@$from_mail_domain>" `
--Subject "8SSL is possible" `
+-Subject "SSL is possible" `
 -body "wichtige botschaft" `
 -Credential $credential `
 -UseSsl `
