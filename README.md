@@ -8,7 +8,7 @@ Windows 10 Pro
 ~~~~
 # Interactive version, send mail once, example:
 
-$credential = Get-Credential  -credential frank.rutz@bluewin.ch
+$credential = Get-Credential  -credential frank.fromm@bluewin.ch
 
 Send-MailMessage `
 -to "frank.tohim <frank.tohim@gmail.com>" `
@@ -26,7 +26,7 @@ Send-MailMessage `
 ######################################################
 #configuration start##################################
 #Source Mail configuration
-$from_mail_first_last="frank.fromf"
+$from_mail_first_last="frank.fromm"
 $from_mail_domain="bluewin.ch"
 
 #Target Mail configuration
