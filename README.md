@@ -4,7 +4,8 @@ Hardware:
 Windows 10 Pro
 
 
-
+	
+~~~~
 # Interactive version, send mail once, example:
 
 $credential = Get-Credential  -credential frank.rutz@bluewin.ch
@@ -45,4 +46,6 @@ Send-MailMessage `
 -Credential $credential `
 -UseSsl `
 -SmtpServer "smtpauths.bluewin.ch"
+	
+~~~~
 
