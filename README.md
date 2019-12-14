@@ -3,6 +3,8 @@
 Hardware:
 Windows 10 Pro
 
+For a script sending three mails from a loop see 
+https://github.com/frankrutz/ssl/blob/master/mailloop.ps1
 
 	
 ~~~~
